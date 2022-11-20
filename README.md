@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JerryKingQAQ
-- 👀 I’m interested in BLACKPINK
-- 🌱 I’m currently learning C/C++
+- 👀 I’m interested in Java/C++/Python
+- 🌱 I’m currently learning Java/DeepLearning for CV and BCI.
 - 📫 E-mail 1256750448@qq.com
 
 <!---
