@@ -2,7 +2,7 @@
 - 👀 I’m interested in Java/C++/Python
 - 🌱 I’m currently learning Java/DeepLearning for CV and BCI.
 - 📫 E-mail jerrykingqaq@foxmail.com
-- I am a software engineering student from South China Normal University. I love coding and programming. I hope to make progress with you!
+- I am a software engineering student from South China Normal University.
 - 
 - 👨‍💼 I currently study in Foshan, China.
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 I currently learn English and Korean.
