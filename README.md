@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JerryKingQAQ
-- 👀 I’m interested in Java/C++/Python
-- 🌱 I’m currently learning Java/DeepLearning for CV and BCI.
+- 👀 I’m interested in Python/Java/C++
+- 🌱 I’m currently learning DeepLearning for CV and BCI.
 - 📫 E-mail jerrykingqaq@foxmail.com
 - I am a software engineering student from South China Normal University.
 - 
