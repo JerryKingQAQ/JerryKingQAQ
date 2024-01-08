@@ -1,14 +1,14 @@
 - 👋 Hi, I’m @JerryKingQAQ
 - 👀 I’m interested in Python/Java/C++
-- 🌱 I’m currently learning DeepLearning for CV and BCI.
+- 🌱 I’m currently learning the Deep Learning for BCI and Time Series Data.
 - 📫 E-mail jerrykingqaq@foxmail.com
-- I am a software engineering student from South China Normal University.
-- 
+- I am a software engineering undergraduate student from South China Normal University.
+
+<!--
 - 👨‍💼 I currently study in Foshan, China.
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 I currently learn English and Korean.
 - 📺 I currently continue to make some [Nothing] about learning programming. 
 - 👯 I look for cooperation opportunities on [Nothing].
-<!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ../
