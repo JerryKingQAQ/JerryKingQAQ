@@ -1,11 +1,10 @@
-<div align="center">
-    <img align='center'src="https://github-readme-stats.vercel.app/api?username=JerryKingQAQ"/> `
-    <img align='center'src="https://github-readme-stats.vercel.app/api/top-langs/?username=JerryKingQAQ"/> `
-</div>
-
-
+<a href="https://github.com/anuraghazra/convoychat">
+   <img align='center'src="https://github-readme-stats.vercel.app/api/top-langs/?username=JerryKingQAQ&layout=compact"/> 
+</a>
 
 <!--
+    <img align='center'src="https://github-readme-stats.vercel.app/api?username=JerryKingQAQ"/> `
+
 - 👋 Hi, I’m @JerryKingQAQ
 - 👀 I’m interested in Python/Java/C++
 - 🌱 I’m currently learning the Deep Learning for BCI and Time Series Data.
