@@ -1,10 +1,13 @@
+![Jerry's GitHub stats](https://github-readme-stats.vercel.app/api?username=JerryKingQAQ)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JerryKingQAQ)
+
+
+<!--
 - 👋 Hi, I’m @JerryKingQAQ
 - 👀 I’m interested in Python/Java/C++
 - 🌱 I’m currently learning the Deep Learning for BCI and Time Series Data.
 - 📫 E-mail jerrykingqaq@foxmail.com
 - I am a software engineering undergraduate student from South China Normal University.
-
-<!--
 - 👨‍💼 I currently study in Foshan, China.
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 I currently learn English and Korean.
 - 📺 I currently continue to make some [Nothing] about learning programming. 
