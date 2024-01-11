@@ -1,5 +1,8 @@
-![Jerry's GitHub stats](https://github-readme-stats.vercel.app/api?username=JerryKingQAQ)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JerryKingQAQ)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JerryKingQAQ" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JerryKingQAQ" />
+</div>
+
 
 
 <!--
